@@ -1,9 +1,8 @@
 # prompt-demo
 
-## Setup the environment:
-```pip3 install pipenv```
+To create a conda environment run the following command:
+```conda env create -f environment.yml```
 
-```pipenv install jupyterlab```
+```conda install -c conda-forge rise```
 
-## Activate the environment:
-```pipenv shell```
+
